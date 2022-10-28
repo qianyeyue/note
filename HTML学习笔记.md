@@ -152,14 +152,13 @@ table用于定义表格的标签，tr是定义表格中的行，td是定义行�
 
 <form action=”url地址” method=”提交方式” name=”表单域名称”>
 
- 
+
 
 </form>
 
 2. input输入表单元素，用来收集用户信息input里面必须要有type属性，格式
 
 <form>
-
 <!--text 用户可以在里面输入任何文字-->(注释)
 
 用户名：<input type="text" name="username">

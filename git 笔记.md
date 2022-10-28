@@ -22,7 +22,7 @@
 
 这里origin后面是你创建的新的GitHub账户里的文件夹的地址
 
-然后用git push -u origin master就可以传输.git文件里的内容到GitHub里面的文件夹了
+4.然后用git push -u origin master就可以传输.git文件里的内容到GitHub里面的文件夹了
 
 #### 2.修改文件 看文件的修改 以及文件修改后的上传
 
